@@ -73,3 +73,63 @@
 00073: One Station Square, Cambridge
 00074: 3060 Olympic apartments, LA - http://ktgy.com/rendering-vs-reality-koreatowns-3060-olympic-apartments/
 00075: 242 Broome Street, NY - https://www.cityrealty.com/nyc/market-insight/features/future-nyc/from-rendering-reality-242-broome039s-champagne-facade-fully-up/13605
+00076: Bridgewater House, Bristol
+00077: Finzel's Reach bridge, Bristol
+00078: Cask Store, Bristol
+00079: 7th & Witmer, LA - https://urbanize.la/post/rendering-vs-reality-7th-witmer-supportive-housing
+00080: 2300 Beverly, LA - https://urbanize.la/post/rendering-vs-reality-2300-beverly
+00081: 617 Dillon Street, LA - https://urbanize.la/post/rendering-vs-reality-loha-designed-silver-lake-development
+00082: Ten50, LA - https://urbanize.la/post/rendering-vs-reality-dtlas-ten50
+00083: Anaheim Marriott, LA - https://urbanize.la/post/rendering-vs-reality-12-story-jw-marriott-hotel-anaheim
+00084: 7th and Olive, LA - https://urbanize.la/post/rendering-vs-reality-office-rehab-7th-and-olive
+00085: 7th and Olive, LA - https://urbanize.la/post/rendering-vs-reality-office-rehab-7th-and-olive
+00086: King 1101, LA - https://urbanize.la/post/rendering-vs-reality-king-1101-apartments
+00087: King 1101, LA - https://urbanize.la/post/rendering-vs-reality-king-1101-apartments
+00088: 442 Ocean Boulevard, LA - https://urbanize.la/post/rendering-vs-reality-long-beachs-442-residences
+00089: Hyperion Silver Lake, LA - https://urbanize.la/post/rendering-vs-reality-hyperion-silver-lake-small-lot-houses
+00090: Easview Aparments, LA - https://urbanize.la/post/rendering-vs-reality-eastview-apartments
+00091: 30th & Vermont, LA - https://urbanize.la/post/rendering-vs-reality-usc-adjacent-apartments
+00092: 7403 Apartments, LA - https://urbanize.la/post/rendering-vs-reality-westchesters-7403-apartments
+00093: Fountain Four, LA - https://urbanize.la/post/rendering-vs-reality-hollywood-small-lot-homes
+00094: Pico Eleven, LA - https://urbanize.la/post/rendering-vs-reality-santa-monicas-pico-eleven-apartments
+00095: E. on Grand, LA - https://urbanize.la/post/rendering-vs-reality-south-parks-e-grand
+00096: 8590 Pico Boulevard, LA - https://urbanize.la/post/rendering-vs-reality-new-apartments-8590-pico-boulevard
+00097: Haven Apartments, LA - https://urbanize.la/post/rendering-vs-reality-culver-citys-haven-apartments
+00098: Alina Tower,LA - https://urbanize.la/post/rendering-vs-reality-south-parks-alina-apartment-tower
+00099: Alexan Bahay, LA - https://urbanize.la/post/rendering-vs-reality-historic-filipinotowns-alexan-bahay-apartments
+00100: Rolland Curtis Gardens, LA - https://urbanize.la/post/rendering-vs-reality-rolland-curtis-gardens-redevelopment
+00101: Hudson West, LA - https://urbanize.la/post/rendering-vs-reality-pasadenas-hudson-west
+00102: 303 Belmont, LA - https://urbanize.la/post/rendering-vs-reality-333-belmont
+00103: Talaria at Burbank, LA - https://urbanize.la/post/rendering-vs-reality-talaria-burbank
+00104: Western & San Marino, LA - https://urbanize.la/post/rendering-vs-reality-western-san-marino-apartments
+00105: G12, LA - https://urbanize.la/post/rendering-vs-reality-south-parks-g12-development
+00106: Downtown West Medical Center, LA - https://urbanize.la/post/rendering-vs-reality-downtown-west-medical-center
+00107: Cobalt Apartments, LA - https://urbanize.la/post/rendering-vs-reality-sony-pictures-adjacent-cobalt-apartments
+00108: The SW, LA - https://urbanize.la/post/rendering-vs-reality-mixed-use-apartment-building-sawtelle-japantown
+00109: Vancouver House - https://skyscraperpage.com/forum/showthread.php?p=8572237
+00110: Glasshouse, Winnipeg - https://skyscraperpage.com/forum/showthread.php?p=8572237
+00111: Canadian Museum for Human Rights - https://skyscraperpage.com/forum/showthread.php?p=8572237
+00112: Cardel Place, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00113: CrossIron Mills, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00114: CrossIron Mills, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00115: Princeton Grand, Eau Claire - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00116: Peace Bridge, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00117: Peace Bridge, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00118: Riverfront Pointe, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00119: SAIT, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00120: Shaw, 32nd Avenue, Calgary - http://www.calgaryherald.com/business/commercial-real-estate/Gallery+Renderings+reality/8816049/story.html
+00121: 1450 Brickel, Miami - http://www.schwartz-media.com/rendering-to-reality/
+00122: Melody Tower, Miami - http://www.schwartz-media.com/rendering-to-reality/
+00123: New Addington Leisure Centre - https://twitter.com/PlanningShit/status/1256962958875336705/
+00124: Great Yarmouth - https://twitter.com/JonnyAnstead/status/1255572092919185408/
+00125: Oliver Houses, NY - https://www.brooklynpaper.com/rendering-vs-reality-on-smith-street/
+00126: Liverpool - https://twitter.com/TartoonArmy/status/1239117398910939136/
+00127: Hampton Inn, Logan, UT - https://twitter.com/Base4Hotels/status/1254874240471482368/
+00128: Lyn Lake - https://twitter.com/mspbjHalter/status/1103755013250342912/
+00129: Torrance Memorial Medical Center Campus - https://twitter.com/HMCArchitects/status/1181585641882210304/
+00130: Clearwater Elementary School - https://twitter.com/HMCArchitects/status/1191747474651832326/
+00131:  Barker Nursing and Health Sciences Complex - https://twitter.com/HMCArchitects/status/1168910988042809344/
+00132: Radisson Blue at Mall of America - https://twitter.com/mspbjHalter/status/1106658709260959744/
+00133: Foshay Learning Center - https://twitter.com/HMCArchitects/status/1214577838994722816
+00134: Hyatt Place - https://twitter.com/BlairHildahl/status/1069758332746039296/photo/1
+00135: Victoria One, Melbourne - https://www.reddit.com/r/architecture/comments/cphxg1/building_render_vs_reality_victoria_one_452/
